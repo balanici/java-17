@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="GENERAL_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1-Handling-date-time-text-numeric-boolean-values" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-Accessing-databases-using-JDBC" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11-Implementing-Localization" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-Controlling-Program-Flow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-Utilizing-Java-Object-Oriented-Approach" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-Handling-Exceptions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5-Working-with-Arrays-Collections" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6-Working-with-Streams-Lambda-expressions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7-Packaging-deploying-Java-code-use-the-Java-Platform-Module-System" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8-Managing-concurrent-code-execution" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9-Using-Java-IO-API" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="jdk-17.0.5+8-adopt" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
